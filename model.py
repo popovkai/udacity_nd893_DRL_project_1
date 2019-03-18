@@ -1,5 +1,6 @@
 """
-Functional Approximation using NN
+* Functional Approximation using NN
+* This is the same model from the original DQN paper
 """
 
 import torch
