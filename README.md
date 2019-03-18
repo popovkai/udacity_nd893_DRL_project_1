@@ -5,13 +5,13 @@ udacity nd893 Deep Reinforcement Learning - Project 1 - Unity Banana Navigation
 
 The goal of the agent is to gather `yellow` bananas while avoiding the `blue` ones.
 
-State = 37 continous values
-Actions = 4 discrete actions (forward, backward, turn left, turn right)
-Eepisodic task = agents reaches average score of 13.0 on 100 consecutive episodes
+* State = 37 continous values
+* Actions = 4 discrete actions (forward, backward, turn left, turn right)
+* Eepisodic task = agents reaches average score of 13.0 on 100 consecutive episodes
 
 ## Coding
 
-I am writing this code on the online workspace @ udacity. 
+I wrote this code on the online workspace @ udacity. Still try to figure out how to build this environment on my machines. 
 
 ## Instructions
 
