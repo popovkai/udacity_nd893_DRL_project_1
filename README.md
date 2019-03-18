@@ -19,4 +19,4 @@ Run `Navigation.ipynb` for step-by-step details.
 
 ## Report
 
-Please refer to `Report.md`
+Please refer to `REPORT.md`
