@@ -9,7 +9,7 @@ nd893 Deep Reinforcement Learning - Project 1 - Unity Banana Navigation
 The goal of the agent is to gather `yellow` bananas while avoiding the `blue` ones.
 ![Trained Agent][image1]
 
-Build a deep neural network reinforcement learning agent to learn how to navigate and to collect yellow bananas in a large square env. The environment is provided by [Unity] (https://github.com/Unity-Technologies/ml-agents). The solution is based on the the original [DQN paper] (https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf).    
+Build a deep neural network reinforcement learning agent to learn how to navigate and to collect yellow bananas in a large square env. The environment is provided by [Unity](https://github.com/Unity-Technologies/ml-agents). The solution is based on the the original [DQN paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf).    
 
 * State = 37 continous values
 * Actions = 4 discrete actions (forward, backward, turn left, turn right)
