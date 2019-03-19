@@ -6,7 +6,7 @@ nd893 Deep Reinforcement Learning - Project 1 - Unity Banana Navigation
 
 ## Project details
 
-The goal of the agent is to gather yellow bananas while avoiding the blue ones.
+The goal of the agent is to gather yellow bananas while avoiding the blue ones
 
 ![Trained Agent][image1]
 
@@ -23,7 +23,7 @@ I wrote this code on the online workspace @ udacity. Still try to figure out how
 ## Installation
 (this is referred to online resource, not fully tested yet)
 
-Required: Python 3.6`
+Required: Python 3.6
 
 Run:
 ```
@@ -34,7 +34,7 @@ to install all python dependencies.
 ## Run Training
 
 Run `Navigation.ipynb` for step-by-step details.
-File `model.py` contains neural network class used as a Q function and file `dqn_agent.py` contains agent code.
+`model.py` contains neural network class as functional approximatior and `dqn_agent.py` is the agent
 
 ## Report
 
