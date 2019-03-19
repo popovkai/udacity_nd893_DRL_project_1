@@ -34,6 +34,7 @@ to install all python dependencies.
 ## Run Training
 
 Run `Navigation.ipynb` for step-by-step details.
+
 `model.py` contains neural network class as functional approximatior and `dqn_agent.py` is the agent
 
 ## Report
