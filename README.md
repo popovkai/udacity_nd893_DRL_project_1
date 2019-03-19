@@ -21,10 +21,20 @@ Build a deep neural network reinforcement learning agent to learn how to navigat
 I wrote this code on the online workspace @ udacity. Still try to figure out how to build this environment on my machines. 
 
 ## Installation
+(this is referred to online resource, not fully tested yet)
 
-## Instructions
+Required: Python 3.6`
+
+Run:
+```
+source ./install.sh
+```
+to install all python dependencies. 
+
+## Run Training
 
 Run `Navigation.ipynb` for step-by-step details.
+File `model.py` contains neural network class used as a Q function and file `dqn_agent.py` contains agent code.
 
 ## Report
 
